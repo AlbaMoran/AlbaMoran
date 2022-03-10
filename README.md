@@ -1,7 +1,7 @@
 ## Hola soy Alba Moran 👋
 
 - 🔭 Actualmente estoy aprendiendo a desarrollar sitios con JavaScript junto a un equipo de trabajo, utilizando la metodologia Scrum para coordinar nuestras tareas y Sprints
-- 🌱 Actualmente estoy incrusionando en el lenguaje JavaScrit, junto a Html, Css, Express y React, a traves de un curso dictado por la compañia Digital House, reconocida en el mercado por su buen prestigio y calidad de enseñanza.
+- 🌱 Actualmente incrusiono en el lenguaje JavaScrit, junto a Html, Css, Express y React, a traves del curso Desarrollador FullStack dictado por Digital House, reconocida compañia  en el mercado, por su buen prestigio y calidad de enseñanza.
 
 - 📫 Puedes contactarme a traves de mis redes sociales
 Instagram : https://www.instagram.com/albi_morann/?hl=es-la
