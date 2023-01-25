@@ -7,7 +7,7 @@
 - 📫 Puedes contactarme a traves de mis redes sociales
 Instagram : https://www.instagram.com/albi_morann/?hl=es-la
 Facebook : https://www.facebook.com/Albita.Moran/
-Linkedin : https://www.linkedin.com/in/alba-moran-b9332536/
+Linkedin : https://www.linkedin.com/in/albamoran
 
 - 😄 Me encanta mi tiempo libre tambien!: Salir a correr y caminar, hacer un poco de gimnnasia, componer melodias con mi guitarra electrica y disfrutar cenas y encuentros con amigos! Soy amante de la musica instrumental, y me gustan artistas como Joe Satriani, Steve Vai, Dream Theater, John Petrucci y otros mas!
 
